@@ -8,7 +8,8 @@ Indus as of right now is a free program. If you want to donate, please try and D
 
 ## Forewarning
 
-This tool is for educational and learning purposes only, it is not supposed to be used maliciously. Remember to always ask for consent before scanning someone's IP or doing something with this tool! :)
+This tool is for educational and learning purposes only, it is not supposed to be used maliciously. 
+Remember to always ask for consent before using the tool on someone! :)
 
 ## Sneak Peeks
 
@@ -19,4 +20,4 @@ This tool is for educational and learning purposes only, it is not supposed to b
 
 ## Contact Me
 
-Contact me at vizium_1
+Contact me at vizium_1 on Discord.
