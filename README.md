@@ -1,4 +1,4 @@
-# Indus v1.1.3 - Vizium0
+# Indus v1.1.3 - Made by Vizium0
 
 ![IndusIcon](https://github.com/user-attachments/assets/8f357c5c-9159-41db-ae83-595a1075c022)
 
